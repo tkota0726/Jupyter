@@ -1,2 +1,19 @@
 # Jupyter
-For some language
+
+Jupyter notebook List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
